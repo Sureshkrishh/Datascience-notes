@@ -1,0 +1,3 @@
+Iam ceated to check the append mode in file handling.
+Checking the append mode
+Checking the append mode after seeking to zero
