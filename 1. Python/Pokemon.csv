@@ -1,0 +1,52 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,1,FALSE
+2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,1,FALSE
+3,Venusaur,Grass,Poison,525,80,82,83,100,100,80,1,FALSE
+3,VenusaurMega Venusaur,Grass,Poison,625,80,100,123,122,120,80,1,FALSE
+6,Charizard,Fire,Flying,534,78,84,78,109,85,100,1,FALSE
+6,CharizardMega Charizard X,Fire,Dragon,634,78,130,111,130,85,100,1,FALSE
+6,CharizardMega Charizard Y,Fire,Flying,634,78,104,78,159,115,100,1,FALSE
+12,Butterfree,Bug,Flying,395,60,45,50,90,80,70,1,FALSE
+13,Weedle,Bug,Poison,195,40,35,30,20,20,50,1,FALSE
+14,Kakuna,Bug,Poison,205,45,25,50,25,25,35,1,FALSE
+15,Beedrill,Bug,Poison,395,65,90,40,45,80,75,1,FALSE
+15,BeedrillMega Beedrill,Bug,Poison,495,65,150,40,15,80,145,1,FALSE
+16,Pidgey,Normal,Flying,251,40,45,40,35,35,56,1,FALSE
+17,Pidgeotto,Normal,Flying,349,63,60,55,50,50,71,1,FALSE
+18,Pidgeot,Normal,Flying,479,83,80,75,70,70,101,1,FALSE
+18,PidgeotMega Pidgeot,Normal,Flying,579,83,80,80,135,80,121,1,FALSE
+21,Spearow,Normal,Flying,262,40,60,30,31,31,70,1,FALSE
+22,Fearow,Normal,Flying,442,65,90,65,61,61,100,1,FALSE
+31,Nidoqueen,Poison,Ground,505,90,92,87,75,85,76,1,FALSE
+34,Nidoking,Poison,Ground,505,81,102,77,85,75,85,1,FALSE
+39,Jigglypuff,Normal,Fairy,270,115,45,20,45,25,20,1,FALSE
+40,Wigglytuff,Normal,Fairy,435,140,70,45,85,50,45,1,FALSE
+41,Zubat,Poison,Flying,245,40,45,35,30,40,55,1,FALSE
+42,Golbat,Poison,Flying,455,75,80,70,65,75,90,1,FALSE
+43,Oddish,Grass,Poison,320,45,50,55,75,65,30,1,FALSE
+44,Gloom,Grass,Poison,395,60,65,70,85,75,40,1,FALSE
+45,Vileplume,Grass,Poison,490,75,80,85,110,90,50,1,FALSE
+46,Paras,Bug,Grass,285,35,70,55,45,55,25,1,FALSE
+47,Parasect,Bug,Grass,405,60,95,80,60,80,30,1,FALSE
+48,Venonat,Bug,Poison,305,60,55,50,40,55,45,1,FALSE
+49,Venomoth,Bug,Poison,450,70,65,60,90,75,90,1,FALSE
+62,Poliwrath,Water,Fighting,510,90,95,95,70,90,70,1,FALSE
+69,Bellsprout,Grass,Poison,300,50,75,35,70,30,40,1,FALSE
+70,Weepinbell,Grass,Poison,390,65,90,50,85,45,55,1,FALSE
+71,Victreebel,Grass,Poison,490,80,105,65,100,70,70,1,FALSE
+72,Tentacool,Water,Poison,335,40,40,35,50,100,70,1,FALSE
+73,Tentacruel,Water,Poison,515,80,70,65,80,120,100,1,FALSE
+74,Geodude,Rock,Ground,300,40,80,100,30,30,20,1,FALSE
+75,Graveler,Rock,Ground,390,55,95,115,45,45,35,1,FALSE
+76,Golem,Rock,Ground,495,80,120,130,55,65,45,1,FALSE
+79,Slowpoke,Water,Psychic,315,90,65,65,40,40,15,1,FALSE
+80,Slowbro,Water,Psychic,490,95,75,110,100,80,30,1,FALSE
+80,SlowbroMega Slowbro,Water,Psychic,590,95,75,180,130,80,30,1,FALSE
+81,Magnemite,Electric,Steel,325,25,35,70,95,55,45,1,FALSE
+82,Magneton,Electric,Steel,465,50,60,95,120,70,70,1,FALSE
+83,Farfetch'd,Normal,Flying,352,52,65,55,58,62,60,1,FALSE
+84,Doduo,Normal,Flying,310,35,85,45,35,35,75,1,FALSE
+85,Dodrio,Normal,Flying,460,60,110,70,60,60,100,1,FALSE
+87,Dewgong,Water,Ice,475,90,70,80,70,95,70,1,FALSE
+91,Cloyster,Water,Ice,525,50,95,180,85,45,70,1,FALSE
+92,Gastly,Ghost,Poison,310,30,35,30,100,35,80,1,FALSE
