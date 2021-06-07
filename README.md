@@ -1,7 +1,7 @@
-## Datascience notes 
+# Datascience notes 
 Hello Everyone, this repository contains all my datascience course notes that are taken during Learnbay internship. Learnbay provided a remarkable platform for me to explore and build a strong carrer in Datascience. 
 
-# Python:
+### Python:
 
 1.Introduction to python ---> https://www.evernote.com/shard/s418/client/snv?noteGuid=f8417066-1504-4c9d-b000-f220a2468f76&noteKey=88361e17a07419ee&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs418%2Fsh%2Ff8417066-1504-4c9d-b000-f220a2468f76%2F88361e17a07419ee&title=Python%2BIntroduction
 
