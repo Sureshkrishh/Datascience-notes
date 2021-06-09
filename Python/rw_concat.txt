@@ -1,0 +1,3 @@
+Iam written in the beginning
+This file is used to check read write mode by concat method.
+Iam written in the end

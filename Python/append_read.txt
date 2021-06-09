@@ -1,0 +1,2 @@
+This is append and read file
+Iam appended at the end
